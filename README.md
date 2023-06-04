@@ -72,7 +72,7 @@ Besides the standard `getImage()` or `getVideo()` methods you can use the getter
 **Full Example**
 
 ```dart
-import 'dart:html' as html;
+import 'package:universal_html/html.dart' as html;
  
 import 'package:mime_type/mime_type.dart';
 import 'package:path/path.dart' as Path;

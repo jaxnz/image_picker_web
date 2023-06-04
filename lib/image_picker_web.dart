@@ -2,7 +2,7 @@ library image_picker_web;
 
 import 'dart:async';
 import 'dart:convert';
-import 'dart:html' as html;
+import 'package:universal_html/html.dart' as html;
 
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
